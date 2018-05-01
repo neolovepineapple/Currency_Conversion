@@ -1,0 +1,1 @@
+../../../CurrencyRequest/Pod/Classes/CRCurrencyRequestDelegate.h
